@@ -1,0 +1,30 @@
+{
+  "name": "detect-tracking-code-company",
+  "version": "1.0.0",
+  "description": "detect Iranian post company based on their tracking code",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfndesign/detect-iran-trackingcode-company.git"
+  },
+  "keywords": [
+    "post",
+    "trackingcode",
+    "detect",
+    "string",
+    "check",
+    "validate",
+    "iran",
+    "fa",
+    "persian"
+  ],
+  "author": "peyman farahmand <pfndesign@gmail.com> (https://www.linkedin.com/in/pfndesign/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfndesign/detect-tracking-code-company/issues"
+  },
+  "homepage": "https://github.com/pfndesign/detect-tracking-code-company#readme"
+}
